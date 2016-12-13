@@ -1,0 +1,189 @@
+/*
+Design by Free CSS Templates
+http://www.freecsstemplates.org
+Released for free under a Creative Commons Attribution 2.5 License
+*/
+
+/* Elements */
+
+body {
+	background: #659A66 url(images/img1.gif) repeat-x left top;
+	margin-top: 124px;
+	text-align: justify;
+	font-family: Tahoma, Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	color: #333333;
+}
+
+h1 {
+}
+
+h2, h3 {
+	margin-top: 0px;
+}
+
+h4, h5, h6 {
+}
+
+p, ol, ul, dl, blockquote {
+}
+
+a {
+}
+
+a:hover {
+	text-decoration: none;
+}
+.bg1 {
+	background: #303030;
+	height: 60px;
+	width: 385px;
+}
+
+/* Header */
+
+#header {
+	width: 775px;
+	height: 60px;
+	margin: 0px auto;
+}
+
+#header h1 {
+	float: left;
+	margin: 0px;
+	padding-top: 20px;
+	font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+	font-size: 40px;
+	letter-spacing: -3px;
+	color: #000;
+}
+
+#header h2 {
+	margin: 0px;
+	padding-top: 42px;
+	font-size: 14px;
+	letter-spacing: -1px;
+}
+
+#header a {
+	text-decoration: none;
+	color: #1E2F4D;
+}
+
+/* Search */
+#search {
+	margin: 0px;
+	padding: 0px;
+	color: #FFFFFF;
+}
+
+/** Forms */
+
+form {
+	margin: 0px;
+	padding: 15px 0px 0px 45px;
+}
+
+.input1 {
+	width: 110px;
+	background-color: #FFFFFF;
+	border: 1px solid #363636;
+	color: #FFFFFF;
+}
+
+
+/* Content */
+
+#content {
+	width: 775px;
+	margin: 0px auto;
+	padding: 20px 0px 0px 0px;
+}
+
+#content h1, #content h2 {
+	margin-bottom: 0;
+	padding: 10px 10px 10px 20px;
+	line-height: 20px;
+	background: #303030 url(images/img2.gif) no-repeat left center;
+	text-transform: uppercase;
+	font: 11px Tahoma, Arial, Helvetica, sans-serif bolder;
+	color: #659A66;
+}
+
+#content ul {
+	margin: 0;
+	padding-left: 15px;
+	list-style: none;
+}
+
+#content li {
+	margin: 10px 0 1em 0;
+	color: #324A32;
+}
+
+#content a {
+	color: #324A32;
+	text-decoration: none;
+}
+
+#content a:hover {
+	text-decoration: underline;
+}
+
+#content h2 {
+	font-weight: bold;
+}
+
+#colOne {
+	float: left;
+	width: 180px;
+	margin-top: 60px;
+}
+
+#colTwo {
+	float: left;
+	margin-top: 50px;
+	width: 180px;
+	padding-right: 15px;
+}
+
+#colThree {
+	float: left;
+	width: 385px;
+	margin: 0px;
+	padding: 0px 0px;
+	background: #303030;
+	color: #858585;
+}
+#colThree p {
+	padding: 0px 15px 15px 15px;
+}
+
+#colThree .first h2 {
+	border-top: 5px solid #659A66;
+}
+
+#colThree h2 {
+	border-top: 10px solid #659A66;
+	border-bottom: 1px solid #659A66;
+}
+
+/* Footer */
+
+#footer {
+	width: 775px;
+	height: 40px;
+	margin: 0px auto;
+	padding-top: 20px;
+	background: #303030;
+}
+
+#footer p {
+	margin: 0px;
+	text-align: center;
+	color: #757575;
+}
+
+#footer a {
+	color: #545454;
+}
